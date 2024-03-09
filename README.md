@@ -49,7 +49,7 @@ Desenvolvedor de Software Full Stack com sólidas habilidades em C# e .NET, apai
 - Gosto de jogos do genero MOBA, RPG e first-person shooter.<img src="https://media1.giphy.com/media/88jkdbcUl7bouVoGSI/giphy.webp?cid=ecf05e474xl6cwmop3sid8oya69snbkvytbadnbxa6h1pdda&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="30px" height="30px">
 - Gosto de viajar, e conhecer lugares novos.<img src="https://media4.giphy.com/media/62V5D5NkkRZq1q8Zyc/100.webp?cid=ecf05e47u41vi10u758eaeghwhuy9r6232nye3jeb0swa64y&ep=v1_stickers_search&rid=100.webp&ct=s" width="30px" height="30px">
 - Gosto de animais principamente Pug`s <img src="https://media3.giphy.com/media/hxcggTNqEeOiZSRiz7/200.webp?cid=790b7611vx4zd54u7psqqm9osuy06e9gmwbt9tnusaai5ws4&ep=v1_stickers_search&rid=200.webp&ct=s" width="30px" height="30px">
-- Um livro que amo e recomendo que faz pensar fora da caixa e o Gosto de ler e super recomendo: <img src="https://media1.giphy.com/media/EKXERaabbWBmt9VmDk/giphy.webp?cid=790b76115ah9zkqifpvw4jvvo2l3e7piwvppfdd3jhha1agu&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="30px" height="30px">
+- Um livro que recomendo faz você pensar fora da caixa: <img src="https://media1.giphy.com/media/EKXERaabbWBmt9VmDk/giphy.webp?cid=790b76115ah9zkqifpvw4jvvo2l3e7piwvppfdd3jhha1agu&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="30px" height="30px">
   - <a href='https://www.psicanaliseclinica.com/a-revolta-de-atlas-resumo-do-livro-de-ayn-rand/'>A revolta de Atlas.</a>
 
 <div align="center">
