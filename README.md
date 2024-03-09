@@ -83,9 +83,6 @@ Desenvolvedor de Software Full Stack com sólidas habilidades em C# e .NET, apai
 
 </div>
 
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWw3a2J2bzE2cmthN2Vyb3RmdDEwcGwxajBtc29hbDNta2JxazZodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10t3SlsievIUAo/giphy.gif
-
-
 <!-- 
 theme=ocean_dark 
 tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark 
